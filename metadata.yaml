@@ -1,0 +1,45 @@
+_repo: Arne--Early-Tales-and-SketchesPatriots-Edition_39744
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Anderson, Rasmus Björn
+    aliases:
+    - Anderson, Rasmus B. (Rasmus Björn)
+    - Anderson, Rasmus Bjorn
+    - Anderson, R. B. (Rasmus Björn)
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '4534'
+    url: http://www.gutenberg.org/2009/agents/4534
+    wikipedia: http://en.wikipedia.org/wiki/Rasmus_B._Anderson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Bjornson, Bjornstjerne
+    - Björnson, Björnstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2012-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into English'
+tableOfContents: 'Arne -- Early tales and sketches: The railroad and the churchyard.
+  Thrond. A dangerous wooing. The bear hunter. The father. The eagle''s nest.'
+title: "Arne; Early Tales and Sketches\r\nPatriots Edition"
+url: http://www.gutenberg.org/ebooks/39744
